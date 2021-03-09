@@ -13,7 +13,7 @@ import csv
 import sys
 import os
 
-import tree, linreg
+import tree, linreg, lasso, svm, SGDReg
 import overfit
 import inclusion
 import invert
@@ -342,7 +342,7 @@ if __name__ == '__main__':
     
     parser = argparse.ArgumentParser(description='By default, computes the empirical and cross validation errors without doing anything else. Use --inc for membership inference, --inv for attribute inference, and --red for reduction.')
     parser.add_argument('data', choices=['eyedata', 'iwpc', 'netflix'], help='Specify the data to use')
-    parser.add_argument('model', choices=['tree', 'linreg'], help='Specify the machine learning algorithm')
+    parser.add_argument('model', choices=['tree', 'linreg', 'lasso', 'svm', 'SGDReg'], help='Specify the machine learning algorithm')
     parser.add_argument('param', type=float, help='Depth of the decision tree, or lambda (alpha) in Ridge linear regression')
     parser.add_argument('--target', help='Name of the target attribute; necessary for attribute inference and reduction; ignored otherwise')
     parser.add_argument('--one-error', action='store_true', help='Assume that the adversary does not know r_cv')
@@ -379,6 +379,15 @@ if __name__ == '__main__':
     if model_type == 'linreg':
         alpha = param
         algorithm = lambda X, y: linreg.sklearn_train_linreg(X, y, alpha)
+    if model_type == 'lasso':
+        alpha = param
+        algorithm = lambda X, y: lasso.sklearn_train_linerg_lasso(X, y, alpha)
+    if model_type == 'svm':
+        C = param
+        algorithm = lambda X, y: svm.sklearn_train_svm(X, y, C)
+    if model_type == 'SGDReg':
+        alpha = param
+        algorithm = lambda X, y: SGDReg.sklearn_train_sgdreg(X, y, alpha)
     
     #argparse ensures that at most one of {inc, inv, red} will be not None
     if inc is not None or inv is not None or red is not None:
