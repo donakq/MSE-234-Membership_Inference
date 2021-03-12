@@ -1,4 +1,5 @@
 import argparse
+import os
 from os import listdir
 import re
 import numpy as np
@@ -30,12 +31,12 @@ def summarize(path, model_type):
                     assert fieldnames == cur_fieldnames
                 except NameError: #if fieldnames does not exist yet (first file read)
                     fieldnames = cur_fieldnames
-            
+
             raw_result = np.loadtxt(infile, skiprows=1, delimiter=',')
             summary_row = np.mean(raw_result, axis=0)
             summary_row = list(map(lambda x: '{:.4f}'.format(x), summary_row))
             summary_rows.append((param, summary_row))
-    
+
     #Replace rseed with param
     fieldnames[0] = 'param'
     for param, summary_row in summary_rows:
