@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba15e340-a9b1-45f2-8c90-e86d09ec8337" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/code/mlr_gridsearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/known-test-error/mlr-1.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/known-test-error/mlr-10.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/known-test-error/mlr-15.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/known-test-error/mlr-20.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/known-test-error/mlr-25.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/known-test-error/mlr-30.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/known-test-error/mlr-35.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/known-test-error/mlr-5.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/known-test-error/mlr-summary.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/unknown-test-error/mlr-1.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/unknown-test-error/mlr-10.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/unknown-test-error/mlr-15.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/unknown-test-error/mlr-20.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/unknown-test-error/mlr-25.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/unknown-test-error/mlr-30.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/unknown-test-error/mlr-35.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/unknown-test-error/mlr-5.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/unknown-test-error/mlr-summary.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/mlr-errors.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/known-test-error/mlr-1.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/known-test-error/mlr-10.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/known-test-error/mlr-15.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/known-test-error/mlr-20.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/known-test-error/mlr-25.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/known-test-error/mlr-30.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/known-test-error/mlr-35.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/known-test-error/mlr-5.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/known-test-error/mlr-summary.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/unknown-test-error/mlr-1.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/unknown-test-error/mlr-10.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/unknown-test-error/mlr-15.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/unknown-test-error/mlr-20.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/unknown-test-error/mlr-25.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/unknown-test-error/mlr-30.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/unknown-test-error/mlr-35.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/unknown-test-error/mlr-5.0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/unknown-test-error/mlr-summary.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/mlr-errors.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/overfit.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/overfit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/run-errors.sh" beforeDir="false" afterPath="$PROJECT_DIR$/code/run-errors.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/run-membership.sh" beforeDir="false" afterPath="$PROJECT_DIR$/code/run-membership.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/summarize.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/summarize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plot.ipynb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pGX5ZdoOoeBmur6hRkyTwCMyoz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ml" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ml-privacy-csf18" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="ml" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba15e340-a9b1-45f2-8c90-e86d09ec8337" name="Default Changelist" comment="" />
+      <created>1614810217987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614810217987</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="155" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615142839397">
+      <screen x="0" y="25" width="1382" height="875" />
+    </state>
+    <state x="155" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1382.875@0.25.1382.875" timestamp="1615142839397" />
+  </component>
+</project>

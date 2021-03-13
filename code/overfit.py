@@ -29,6 +29,7 @@ def get_cross_validation_error(algorithm, X, y):
         test_X, test_y = X[test_indices], y[test_indices]
         
         model = algorithm(train_X, train_y)
+
         mse = mean_squared_error(test_y, model.predict(test_X))
         errors.append(mse)
     
