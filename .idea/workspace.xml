@@ -19,52 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba15e340-a9b1-45f2-8c90-e86d09ec8337" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/code/mlr_gridsearch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/known-test-error/mlr-1.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/known-test-error/mlr-10.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/known-test-error/mlr-15.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/known-test-error/mlr-20.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/known-test-error/mlr-25.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/known-test-error/mlr-30.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/known-test-error/mlr-35.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/known-test-error/mlr-5.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/known-test-error/mlr-summary.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/unknown-test-error/mlr-1.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/unknown-test-error/mlr-10.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/unknown-test-error/mlr-15.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/unknown-test-error/mlr-20.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/unknown-test-error/mlr-25.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/unknown-test-error/mlr-30.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/unknown-test-error/mlr-35.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/unknown-test-error/mlr-5.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/membership/unknown-test-error/mlr-summary.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/eyedata/mlr-errors.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/known-test-error/mlr-1.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/known-test-error/mlr-10.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/known-test-error/mlr-15.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/known-test-error/mlr-20.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/known-test-error/mlr-25.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/known-test-error/mlr-30.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/known-test-error/mlr-35.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/known-test-error/mlr-5.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/known-test-error/mlr-summary.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/unknown-test-error/mlr-1.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/unknown-test-error/mlr-10.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/unknown-test-error/mlr-15.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/unknown-test-error/mlr-20.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/unknown-test-error/mlr-25.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/unknown-test-error/mlr-30.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/unknown-test-error/mlr-35.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/unknown-test-error/mlr-5.0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/membership/unknown-test-error/mlr-summary.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results-sklearn/iwpc/mlr-errors.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/overfit.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/overfit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/run-errors.sh" beforeDir="false" afterPath="$PROJECT_DIR$/code/run-errors.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/run-membership.sh" beforeDir="false" afterPath="$PROJECT_DIR$/code/run-membership.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/summarize.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/summarize.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plot.ipynb" beforeDir="false" />
-    </list>
+    <list default="true" id="ba15e340-a9b1-45f2-8c90-e86d09ec8337" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
